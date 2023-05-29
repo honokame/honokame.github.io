@@ -22,15 +22,19 @@ body {
 
 /* 文字の部分 */
 .content {
-  background-color: #fff;
+  background-color:antiquewhite;
   margin: 20px;
   margin-top: 20px;
   height: 500px; /*test*/
 }
 
-h3 {
+.content a{
+margin: 30px;
+}
+
+.content h3 {
   margin: 10px;
-  margin-top: 0px;
+  margin-top: 10px;
 }
 
 
